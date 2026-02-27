@@ -23,31 +23,49 @@
 
 ---
 
-## 💡 Current Focus
+## 💡 What I’m Focused On
 
 - Building **secure, scalable backend systems** with ASP.NET Core  
-- Experimenting with **Blazor Server & MVC full-stack apps**  
-- Learning **AI integration in backend workflows**  
-- Optimizing **databases, authentication, and system architecture**  
+- Exploring **Blazor Server & MVC** for full-stack apps  
+- Integrating **AI into backend workflows** where it actually adds value  
+- Designing **clean architectures** with solid data, auth, and domain layers  
 
 ---
 
-## ⚡ GitHub Highlights
+## 💼 Experience Snapshot
 
-- 🔹 [Skill Swapper API](https://github.com/MuhammadBilal64/SkillSwapper) – RESTful backend with JWT & EF Core  
-- 🔹 [BloodLink](https://github.com/MuhammadBilal64/BloodLink) – Full-stack Blazor app for blood donation management  
-- 🔹 [BookedIn](https://github.com/MuhammadBilal64/BookedIn) – Modular MVC e-commerce platform  
+I’ve worked as a **Trainee Software Engineer at Xeeoff Pvt. Ltd.**, where I:
 
-> Only listing **top active repos**. See more on my [GitHub](https://github.com/MuhammadBilal64).
+- Helped build **PhinExIntra**, a cybersecurity SaaS platform for social engineering simulations (phishing, quishing, voice cloning, etc.) using **ASP.NET Core, Blazor Server, SQL Server**  
+- Contributed to **SDrive**, a ride-hailing admin portal handling **driver/vehicle verification, analytics, dynamic fares, and complaint resolution**  
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadBilal64&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadBilal64&theme=tokyonight&hide_border=true" height="150" />
-</p>
+- 🔹 **Skill Swapper API** – *Skill Exchange Web API*  
+  RESTful API with **40+ endpoints**, skill-based matching, SkillSwapper Coins, admin workflows, and **JWT authentication**.  
+  `ASP.NET Core Web API · EF Core · SQL Server · JWT · Swagger`  
+  👉 [`github.com/MuhammadBilal64/SkillSwapper`](https://github.com/MuhammadBilal64/SkillSwapper)
+
+- 🔹 **BloodLink** – *Blood Donation Management System*  
+  Full-stack platform with **role-based access**, intelligent donor–recipient matching, and secure appointment flow.  
+  `ASP.NET Core · Blazor Server · SQL Server · JWT`  
+  👉 [`github.com/MuhammadBilal64/BloodLink`](https://github.com/MuhammadBilal64/BloodLink)
+
+- 🔹 **BookedIn** – *Full-Stack E-Commerce Platform*  
+  Modular **MVC e-commerce** app with Repository + Unit of Work, RBAC, admin dashboard, Stripe payments, and order tracking.  
+  `ASP.NET Core MVC · EF Core · SQL Server · Stripe`  
+  👉 [`github.com/MuhammadBilal64/BookedIn`](https://github.com/MuhammadBilal64/BookedIn)
+
+---
+
+## 🏅 A Few Highlights
+
+- 🏆 **AI Grand Prix Winner**, PROCOM 2026  
+- 🏆 **ICPC Asia Top Regional Qualifier**, 2026  
+- 🏅 **Coders Cup 2025 Finalist**  
+- 🎓 **Dean’s List** multiple times at FAST-NUCES  
 
 ---
 
@@ -66,8 +84,4 @@
   <a href="https://linkedin.com/in/muhammad-bilal-139a99263">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1F1F1F&height=120&section=footer"/>
 </p>
