@@ -8,9 +8,13 @@
 </p>
 
 <p align="center">
-  📍 Karachi, Pakistan • 📧 <a href="mailto:bilal.maliik.dev@gmail.com">bilal.maliik.dev@gmail.com</a> •
+  📍 Karachi, Pakistan • 📧 <a href="mailto:bilal.maliik.dev@gmail.com">bilal.maliik.dev@gmail.com</a><br/>
   <a href="https://github.com/MuhammadBilal64">GitHub</a> •
   <a href="https://linkedin.com/in/muhammad-bilal-139a99263">LinkedIn</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhammadBilal64&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -18,7 +22,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,c,python,aspnet,blazor,sqlserver,git,github" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,c,python,aspnet,blazor,sqlserver,git,github&perline=9" />
 </p>
 
 ---
@@ -47,6 +51,18 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadBilal64&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadBilal64&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBilal64&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadBilal64&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
