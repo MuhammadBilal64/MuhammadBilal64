@@ -1,154 +1,93 @@
-<!-- ========== HERO SECTION ========== -->
-<div align="center">
+# Muhammad Bilal
 
-  <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4E9F3D&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Muhammad+Bilal+👋;Computer+Science+Student;ASP.NET+Core+Backend+Developer;Learning+FastAPI+and+Go;Always+learning+new+things" />
-
-  <!-- Short intro -->
-  <p>
-    Backend-focused developer passionate about building secure, scalable web systems using the .NET ecosystem.
-  </p>
-
-  <!-- Badges -->
-  <p>
-    <a href="https://github.com/MuhammadBilal64?tab=followers">
-      <img src="https://img.shields.io/github/followers/MuhammadBilal64?style=for-the-badge&color=4E9F3D&label=Followers"/>
-    </a>
-    <a href="https://github.com/MuhammadBilal64">
-      <img src="https://komarev.com/ghpvc/?username=MuhammadBilal64&style=for-the-badge&color=4E9F3D&label=Profile+Views"/>
-    </a>
-    <a href="https://linkedin.com/in/bilal-maliik">
-      <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Bilal-0A66C2?style=for-the-badge&logo=linkedin"/>
-    </a>
-  </p>
-
-</div>
+Computer Science student focused on backend development using ASP.NET Core and SQL Server.  
+Interested in scalable APIs, system design, and backend architecture.
 
 ---
 
-<!-- ========== ABOUT ========== -->
+## About Me
 
-## 🧑‍💻 About Me
+- Computer Science student at FAST National University
+- Based in Pakistan
+- Focused on ASP.NET Core backend development
+- Goal: Become a strong backend / full-stack engineer
 
-- 🎓 Computer Science student at **FAST National University**
-- 🌍 Based in **Pakistan**
-- 💻 Focused on **backend development** with **ASP.NET Core** and **SQL Server**
-- 🧠 Interested in **system design, security, and scalable APIs**
-- 🚀 Goal: Become a **high-level backend / full-stack engineer**
-
-### 🎯 Currently Learning
-
-- ⚡ **FastAPI** for high-performance Python services  
-- 🐹 **Go (Golang)** for scalable backend systems  
-- 🧠 **Machine Learning** fundamentals  
-- 🧩 Advanced **ASP.NET Core** patterns and best practices  
+### Currently Learning
+- FastAPI
+- Go (Golang)
+- Machine Learning fundamentals
+- Advanced ASP.NET Core patterns
 
 ---
 
-<!-- ========== HIGHLIGHTS ========== -->
+## Tech Stack
 
-## 🏆 Highlights & Achievements
+**Languages**
+- C#
+- C++
+- Python
+- Go
 
-- 🥇 **AI Grand Prix Winner – PROCOM 2026**  
-- 🥈 **ICPC Asia Top Regional Qualifier – 2026**  
-- 🏅 **Coders Cup 2025 Finalist**  
-- 🎖️ **Three-time Dean’s List** at FAST National University  
+**Frameworks**
+- ASP.NET Core
+- ASP.NET Web API
+- Entity Framework Core
+- FastAPI (learning)
 
----
+**Database**
+- SQL Server
 
-<!-- ========== TECH STACK ========== -->
-
-## ⚙️ Tech Stack
-
-### 🧪 Languages
-![C#](https://img.shields.io/badge/C%23-4E9F3D?style=flat&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-4E9F3D?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-4E9F3D?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-4E9F3D?style=flat&logo=go&logoColor=white)
-
-### 🖥 Backend & Frameworks
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-4E9F3D?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET Web API](https://img.shields.io/badge/Web_API-4E9F3D?style=flat&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/Entity_Framework_Core-4E9F3D?style=flat&logo=dotnet&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-learning-4E9F3D?style=flat&logo=fastapi&logoColor=white)
-
-### 🗄 Databases
-![SQL Server](https://img.shields.io/badge/SQL_Server-4E9F3D?style=flat&logo=microsoftsqlserver&logoColor=white)
-
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-4E9F3D?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-4E9F3D?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-4E9F3D?style=flat&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-4E9F3D?style=flat&logo=visualstudio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-4E9F3D?style=flat&logo=postman&logoColor=white)
+**Tools**
+- Git
+- GitHub
+- Visual Studio
+- VS Code
+- Postman
 
 ---
 
-<!-- ========== GITHUB STATS ========== -->
+## Projects
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadBilal64&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadBilal64&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBilal64&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<!-- ========== FEATURED PROJECTS ========== -->
-
-## 🚀 Featured Projects
-
-### 🔁 SkillSwapper
+### SkillSwapper
 Skill exchange platform where users trade skills and earn platform coins.
 
-- **Tech:** ASP.NET Core Web API, EF Core, SQL Server, JWT  
-- **Repo:** [github.com/MuhammadBilal64/SkillSwapper](https://github.com/MuhammadBilal64/SkillSwapper)
+Tech: ASP.NET Core Web API, EF Core, SQL Server, JWT  
+Repo: https://github.com/MuhammadBilal64/SkillSwapper
 
 ---
 
-### 🩸 BloodLink
-Blood donation management system connecting donors and recipients with role-based access.
+### BloodLink
+Blood donation management system connecting donors and recipients.
 
-- **Tech:** ASP.NET Core, Blazor Server, SQL Server, Identity  
-- **Repo:** [github.com/MuhammadBilal64/BloodLink](https://github.com/MuhammadBilal64/BloodLink)
+Tech: ASP.NET Core, Blazor Server, SQL Server, ASP.NET Identity  
+Repo: https://github.com/MuhammadBilal64/BloodLink
 
 ---
 
-### 🛒 BookedIn
+### BookedIn
 Full-stack e-commerce system with admin panel and order management.
 
-- **Tech:** ASP.NET Core MVC, EF Core, SQL Server  
-- **Repo:** [github.com/MuhammadBilal64/BookedIn](https://github.com/MuhammadBilal64/BookedIn)
+Tech: ASP.NET Core MVC, EF Core, SQL Server  
+Repo: https://github.com/MuhammadBilal64/BookedIn
 
 ---
 
-<!-- ========== FOCUS ========== -->
+## Current Focus
 
-## 🌱 Current Focus
-
-- Building **production-style ASP.NET Core APIs**
-- Learning **FastAPI** for Python microservices
-- Practicing **Go** for scalable backend systems
-- Improving **system design** and **data structures & algorithms**
+- Building ASP.NET Core APIs
+- Learning FastAPI for Python services
+- Practicing Go for backend development
+- Improving system design and data structures
 
 ---
 
-<!-- ========== CONTACT ========== -->
+## Contact
 
-## 📫 Connect With Me
+LinkedIn  
+https://linkedin.com/in/bilal-maliik  
 
-- 💼 **LinkedIn:** [linkedin.com/in/bilal-maliik](https://linkedin.com/in/bilal-maliik)  
-- ✉️ **Email:** [bilal.maliik.dev@gmail.com](mailto:bilal.maliik.dev@gmail.com)  
-- 🐙 **GitHub:** [github.com/MuhammadBilal64](https://github.com/MuhammadBilal64)
+Email  
+bilal.maliik.dev@gmail.com  
 
----
-
-<div align="center">
-
-⭐ If you like my work, consider starring a repository!
-
-</div>
+GitHub  
+https://github.com/MuhammadBilal64
