@@ -35,15 +35,13 @@ open_to: Open Source Collaboration & Backend Internships
 fun_fact: I love systems that perform reliably under pressure ⚡
 ```
 
-🌐 **Portfolio:** [portfoluo-main.vercel.app](https://portfoluo-main.vercel.app/)
-📄 **Resume:** [Download PDF](./Muhammad_Bilal_Resume.pdf)
-
 ---
-
 ## 🏆 Highlights
 
 - 🥇 **PROCOM 2026 — AI Grand Prix Winner**
+- 🏅 **AI Got Talent Competition — 4th Place**
 - 🌏 **ICPC Asia Regional Qualifiers**
+- 💻 **Coders Cup 2025 Finalist**
 - 🌱 Just stepping into **open source contributions** — let's build together!
 
 ---
@@ -84,22 +82,6 @@ fun_fact: I love systems that perform reliably under pressure ⚡
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=MuhammadBilal64&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=MuhammadBilal64&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
-
-</div>
 
 ---
 
