@@ -8,7 +8,7 @@
 *Building scalable backends · Competing in algorithms · Shipping AI systems*
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://portfoluo-main.vercel.app/)
-[![Resume](https://img.shields.io/badge/📄_Resume-FF4B4B?style=for-the-badge&logoColor=white)](./Muhammad_Bilal_Resume.pdf)
+[![Resume](https://img.shields.io/badge/📄_Resume-FF4B4B?style=for-the-badge&logoColor=white)](./Muhammad_Bilal.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-maliik)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilal.maliik.dev@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/bm64812111/)
@@ -43,7 +43,7 @@ fun_fact: I love systems that perform reliably under pressure ⚡
 ## 🏆 Highlights
 
 - 🥇 **PROCOM 2026 — AI Grand Prix Winner**
-- 🌏 **ICPC Asia Regional Qualifiers** — Participant
+- 🌏 **ICPC Asia Regional Qualifiers**
 - 🌱 Just stepping into **open source contributions** — let's build together!
 
 ---
