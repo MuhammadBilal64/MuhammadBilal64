@@ -7,7 +7,7 @@
 **CS Student @ [FAST NUCES, Karachi](https://khi.nu.edu.pk/)**
 *Building scalable backends · Competing in algorithms · Shipping AI systems*
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://portfoluo-main.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://old-os-folio.vercel.app/)
 [![Resume](https://img.shields.io/badge/📄_Resume-FF4B4B?style=for-the-badge&logoColor=white)](./Muhammad_Bilal.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-maliik)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilal.maliik.dev@gmail.com)
@@ -112,7 +112,7 @@ If you have something interesting to build — reach out!
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfoluo-main.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://old-os-folio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-maliik)
 [![Email](https://img.shields.io/badge/Drop_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilal.maliik.dev@gmail.com)
 
