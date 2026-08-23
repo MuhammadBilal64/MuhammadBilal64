@@ -1,121 +1,183 @@
 <div align="center">
 
-# Hi, I'm Muhammad Bilal 👋
+# Muhammad Bilal
 
-### Backend Engineer in the making · AI Systems Explorer · Competitive Programmer
+### Backend Engineer · .NET · Go & Systems
 
-**CS Student @ [FAST NUCES, Karachi](https://khi.nu.edu.pk/)**
-*Building scalable backends · Competing in algorithms · Shipping AI systems*
+**Computer Science @ FAST NUCES Karachi · Class of 2027**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://old-os-folio.vercel.app/)
-[![Resume](https://img.shields.io/badge/📄_Resume-FF4B4B?style=for-the-badge&logoColor=white)](./Muhammad_Bilal.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-maliik)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilal.maliik.dev@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/bm64812111/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/bm64812111)
-</div>
+I build backend systems with **C# / ASP.NET Core**, while exploring **Go, concurrency, distributed systems, scalability, and system design**.
 
----
-
-## 🧑‍💻 About Me
-
-```yaml
-name: Muhammad Bilal
-role: CS Student & Aspiring Backend Engineer
-location: Karachi, Pakistan
-focus:
-  - Backend Engineering (APIs · Clean Architecture · Scalable Systems)
-  - AI / Agent Systems (LLM pipelines · Agentic workflows)
-  - Competitive Programming (DSA · Problem Solving)
-currently_learning:
-  - Go
-  - Distributed Systems
-  - System Design
-open_to: Open Source Collaboration & Backend Internships
-fun_fact: I love systems that perform reliably under pressure ⚡
-```
-
----
-## 🏆 Highlights
-
-- 🥇 **PROCOM 2026 — AI Grand Prix Winner**
-- 🏅 **AI Got Talent Competition — 4th Place**
-- 🌏 **ICPC Asia Regional Qualifiers**
-- 💻 **Coders Cup 2025 Finalist**
-- 🌱 Just stepping into **open source contributions** — let's build together!
-
----
-
-## 🛠️ Tech Stack
-
-#### Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-#### Backend & Frameworks
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-#### Machine Learning
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-
-#### Databases & DevOps
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-#### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadBilal64&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Activity Graph" />
+<p>
+<a href="https://www.linkedin.com/in/bilal-maliik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:bilal.maliik.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 </div>
 
 ---
 
-## 💡 Dev Quote
+## About
+
+I'm a Computer Science student at **FAST NUCES Karachi** focused on backend engineering and building reliable software systems.
+
+My core interests are:
+
+* **Backend Engineering** — APIs, authentication, architecture, and databases
+* **.NET Development** — ASP.NET Core, Web APIs, Entity Framework Core, and SignalR
+* **Go & Concurrency** — goroutines, channels, synchronization, and concurrent workloads
+* **Distributed Systems** — learning replication, consistency, fault tolerance, and scalability
+* **Competitive Programming** — algorithms, data structures, and problem solving
+
+I'm particularly interested in understanding how backend systems behave under **concurrency, load, and failure**.
+
+---
+
+## Currently Learning
+
+I'm expanding from backend development into systems and distributed computing, focusing on:
+
+* **Distributed Systems** — replication, consistency, fault tolerance, and failure handling
+* **System Design** — scalability, reliability, and system architecture
+* **Go** — concurrency patterns, networking, and systems-oriented development
+
+---
+
+## Current Work
+
+### GoScale
+
+**Mini Distributed Systems Lab in Go · In Progress**
+
+A hands-on project for exploring how backend systems handle **concurrency, distributed state, scaling, and failure** through progressively more complex implementations.
+
+**Currently working on:**
+
+* Concurrent in-memory key-value storage
+* HTTP APIs and request handling
+* Goroutines, channels, and synchronization
+* Graceful shutdown and lifecycle management
+* Unit testing concurrent components
+
+**Next:**
+
+* Distributed storage
+* Replication
+* Fault tolerance
+* Scalability
+
+→ [View GoScale](https://github.com/MuhammadBilal64/go-scale)
+
+---
+
+### DevFlow
+
+**Backend Platform for Team Collaboration**
+
+A team collaboration backend built with **ASP.NET Core**, using Clean Architecture and CQRS with a focus on modularity, maintainability, and testing.
+
+**Architecture & engineering:**
+
+* Clean Architecture
+* CQRS
+* MediatR
+* Entity Framework Core
+* Pipeline Behaviors
+* Global Exception Handling
+* Authentication & Authorization
+* Role-Based Access Control
+* SignalR
+* Unit Testing
+
+**Implemented modules:**
+
+* Authentication
+* Workspace Management
+* Project Management
+* Task Management
+* Notifications
+
+→ [View DevFlow](https://github.com/MuhammadBilal64)
+
+---
+
+## Experience
+
+**Software Engineering Intern · XEEOFF Pvt Ltd**
+*Sep 2025 – Dec 2025 · .NET*
+
+Contributed to **PhinExIntra**, a cybersecurity SaaS platform, and **SDrive Admin Portal** as part of a .NET engineering team.
+
+---
+
+## Technical Skills
+
+### Languages
+
+`C#` · `Go` · `C++` · `Python` · `C`
+
+### Backend
+
+`ASP.NET Core` · `.NET` · `FastAPI` · `REST APIs` · `Entity Framework Core` · `SignalR`
+
+### Databases
+
+`PostgreSQL` · `SQL Server` · `Azure SQL`
+
+### Architecture & Engineering
+
+`Clean Architecture` · `CQRS` · `Concurrency` · `Authentication & Authorization` · `Unit Testing`
+
+### Infrastructure & Tools
+
+`Docker` · `Azure` · `Git` · `GitHub` · `Postman` · `Visual Studio` · `VS Code`
+
+---
+
+## Competitive Programming
+
+I use competitive programming to strengthen algorithmic thinking, data structures, and problem-solving skills.
+
+* **600+ algorithmic problems solved** across competitive programming platforms and university contests
+* 🏆 **ICPC Asia Regional Qualifier**
+* 🏅 **Coders Cup 2025 Finalist**
+
+[LeetCode](https://leetcode.com/u/bm64812111/) · [Codeforces](https://codeforces.com/profile/bm64812111)
+
+---
+
+## Achievements
+
+* 🥇 **PROCOM 2026 — AI Grand Prix Winner**
+* 🏆 **ICPC Asia Regional Qualifier**
+* 🏅 **Coders Cup 2025 Finalist**
+* 🏅 **AI Got Talent Competition — 4th Place**
+* 🎓 **4× Dean's List**
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadBilal64&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="GitHub Contribution Activity" />
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
-I'm actively looking to **contribute to open source** and collaborate on backend / AI projects.
-If you have something interesting to build — reach out!
+I'm interested in **backend engineering, systems development, distributed systems, and open-source projects**.
+
+If you're working on interesting backend or infrastructure problems, feel free to reach out.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://old-os-folio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-maliik)
-[![Email](https://img.shields.io/badge/Drop_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilal.maliik.dev@gmail.com)
+<a href="https://www.linkedin.com/in/bilal-maliik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:bilal.maliik.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<sub>⭐️ From [MuhammadBilal64](https://github.com/MuhammadBilal64) — *building, learning, contributing.*</sub>
+<br/>
+
+<sub>Building systems. Solving problems. Learning by shipping.</sub>
 
 </div>
