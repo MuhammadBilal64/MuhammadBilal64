@@ -66,7 +66,7 @@ A hands-on project for exploring how backend systems handle **concurrency, distr
 * Fault tolerance
 * Scalability
 
-→ [View GoScale](https://github.com/MuhammadBilal64/go-scale)
+→ [View GoScale](https://github.com/MuhammadBilal64/goscale)
 
 ---
 
